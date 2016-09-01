@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EE8DB076-3E23-A49B-6D3A-7E567CB3A949}") = "Election Simulator", "Assembly-CSharp.csproj", "{5D80417E-FB51-04E8-7103-45CA330652E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D80417E-FB51-04E8-7103-45CA330652E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D80417E-FB51-04E8-7103-45CA330652E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D80417E-FB51-04E8-7103-45CA330652E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D80417E-FB51-04E8-7103-45CA330652E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
